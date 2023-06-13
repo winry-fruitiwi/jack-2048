@@ -8,5 +8,10 @@ Main.jack
 	Call that function from Main.jack, compile and test
 
 Game2048.jack
-	Initialize class function
+	Initialize class function (and dispose function)
 	Initialize function that prints an int
+
+Sprites.jack
+	Initialize class function
+	Populate this function with sprites for all tiles up to 2048!
+	do Sprites.jack later on when displaying numbers is needed
