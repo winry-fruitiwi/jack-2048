@@ -1,0 +1,12 @@
+﻿Bites list
+Review Jack syntax and make sure that I know what I'm working with
+Get the compiler working so that I can actually test my code
+
+Main.jack
+	Initialize a very basic Main class function with no code inside
+	Do first two steps of next category
+	Call that function from Main.jack, compile and test
+
+Game2048.jack
+	Initialize class function
+	Initialize function that prints an int
